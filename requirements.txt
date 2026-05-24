@@ -3,3 +3,4 @@ textblob
 deep-translator
 langdetect
 plotly
+PyPDF2
