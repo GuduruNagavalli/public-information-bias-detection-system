@@ -4,3 +4,4 @@ deep-translator
 langdetect
 plotly
 PyPDF2
+youtube-transcript-api
