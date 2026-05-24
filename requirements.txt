@@ -2,3 +2,4 @@ streamlit
 textblob
 deep-translator
 langdetect
+plotly
